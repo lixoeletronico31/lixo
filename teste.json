@@ -1,16 +1,26 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2487.3">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
-  </style>
-</head>
-<body>
-<p class="p1">{"apps":[{"beta":false,"bundleIdentifier":"","developerName":"Riley Testut","downloadURL":"https://archive.org/download/captions-11.27-le-ti/Captions++_11.27_LeTi.ipa","iconURL":"https://ipalibrary.me/wp-content/uploads/2023/07/Captions-150x150.jpeg","localizedDescription":"Introducing the all-in-one AI powered camera and editor for creators everywhere – the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI – the world’s most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.","name":"Captions","screenshotURLs":[""],"size":2184796,"subtitle":"App","tintColor":"018084","version":"1.3b2","versionDate":"2020-03-24T14:00:00-07:00","versionDescription":""}],"identifier":"com.example.source","name":"Source Name","news":[],"userInfo":{}}</p>
-</body>
-</html>
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "Lixo",
+      "downloadURL": "https://archive.org/download/captions-11.27-le-ti/Captions++_11.27_LeTi.ipa",
+      "iconURL": "https://ipalibrary.me/wp-content/uploads/2023/07/Captions-150x150.jpeg",
+      "localizedDescription": "Introducing the all-in-one AI powered camera and editor for creators everywhere – the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI – the world’s most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.",
+      "name": "Captions",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "App",
+      "tintColor": "018084",
+      "version": "1.3b2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Source Name",
+  "news": [],
+  "userInfo": {}
+}
